@@ -44,7 +44,7 @@ p {
 .beta-text,
 .top-text {
     text-transform: uppercase;
-    text-shadow: 0 2px #ff6600;
+    text-shadow: 0 1px #121111;
 }
 
 .top-text {
@@ -82,7 +82,7 @@ p {
     justify-content: space-between;
     min-height: 250px;
     text-align: center;
-    color: whitesmoke;
+    color: #fb9f35;
     background: #a5a5a7 url("images/cevap-lepinja.jpeg");
     background-size: cover;
     padding-bottom: 1.5em;
